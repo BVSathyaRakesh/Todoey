@@ -16,12 +16,18 @@ class TestViewController: UIViewController {
         print("Hellow testing creatinch in Github2")
         // Do any additional setup after loading the view.
         testGithubCommands()
+        testBranchinGUI()
     }
     
     func testGithubCommands(){
         
         print("adding test commands")
         print("adding forgotten changes")
+    }
+    
+    func testBranchinGUI()  {
+        print(" testing in GUI1")
+        print(" testing in GUI2")
     }
     
 
