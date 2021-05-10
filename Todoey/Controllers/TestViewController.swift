@@ -15,6 +15,13 @@ class TestViewController: UIViewController {
        print("Hellow testing creatinch in Github")
         print("Hellow testing creatinch in Github2")
         // Do any additional setup after loading the view.
+        testGithubCommands()
+    }
+    
+    func testGithubCommands(){
+        
+        print("adding test commands")
+        print("adding forgotten changes")
     }
     
 
